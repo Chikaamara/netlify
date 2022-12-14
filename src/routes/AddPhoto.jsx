@@ -23,7 +23,7 @@ const AddPhoto = () => {
         secret: secret,
       }),
     });
-    secret == "password" ? navigate("/photos") : alert("You are not authorized");
+    secret === "password" ? navigate("/photos") : alert("You are not authorized");
     // TODO: answer here
   };
 
