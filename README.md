@@ -34,3 +34,4 @@ Pada assignment kali ini kalian diwajibkan untuk melakukan deployment dari aplik
 - Lakukan deployment aplikasi Gallery App mengunakan **Netlify**.
 
 - Pada `Task.js` masukan url netlify, nama serta CAMP ID kalian dalam bentuk `string`. Pastikan nama serta CAMP ID yang kalian masukan **sesuai** dengan yang kalian simpan pada `App.js`.
+# netlify
